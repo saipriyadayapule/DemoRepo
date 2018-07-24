@@ -10,4 +10,10 @@ public class HomePage {
 		System.out.println("homepage2");
 
 }
+	public void homepage3() {
+		System.out.println("homepage3");
+
+}
+	
+	
 }
